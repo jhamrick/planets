@@ -1,1 +1,2 @@
 Jupiter (Jupyter) is cool!
+IPython is part of Jupyter.
